@@ -5,6 +5,8 @@ systems. YMMV, and so may mine. I reserve the right to deny ever having said any
 
 Like all the best principles, these are only meant to get you thinking, not as hard and fast rules.
 
+To get started reading, see the [docs/](docs/) directory.
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) if you would like to contribute.
