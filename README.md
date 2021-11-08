@@ -1,5 +1,7 @@
 # Software Engineering Thoughts
 
+_Rules are for the guidance of the wise and the obedience of fools. - Sir Douglas Bader_
+
 This is a rough sketch of some of my generally-held principles for writing software and designing/implementing software
 systems. YMMV, and so may mine. I reserve the right to deny ever having said any of this, git history be damned.
 
